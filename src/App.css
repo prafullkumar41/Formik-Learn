@@ -13,6 +13,17 @@
   }
 }
 
+.ytform{
+  margin: 30px 10px;
+}
+
+.error{
+  color: red;
+  font-size: 10px;
+  text-align: center;
+  padding-right: 40px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
